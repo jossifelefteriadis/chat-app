@@ -1,0 +1,62 @@
+{"message":"jossif just joined the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":"Erik just sent a new message: hello","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":"Erik just sent a new message: Hello again","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Carl just joined the chat","level":"info"}
+{"message":"Jossif just sent a new message: Hey man","level":"info"}
+{"message":"Carl just sent a new message: Yo","level":"info"}
+{"message":"Jossif just disconnected from the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":" was invalid. Try again","level":"error"}
+{"message":"Carl got disconnected due to inactivity","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":"Erik just sent a new message: Yo","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"Anton just joined the chat","level":"info"}
+{"message":" was invalid. Try again","level":"error"}
+{"message":"Jossif just sent a new message: What's up Anton","level":"info"}
+{"message":"Anton just sent a new message: Good, you?","level":"info"}
+{"message":"Jossif just disconnected from the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":" was invalid. Try again","level":"error"}
+{"message":"Anton got disconnected due to inactivity","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":"Jossif just sent a new message: Hej Erik","level":"info"}
+{"message":"Erik just sent a new message: Hello man!","level":"info"}
+{"message":"Jossif got disconnected due to inactivity","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"Joel just joined the chat","level":"info"}
+{"message":" was invalid. Try again","level":"error"}
+{"message":"Joel was already taken","level":"error"}
+{"message":" was invalid. Try again","level":"error"}
+{"message":"Joel just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Jossif was already taken","level":"error"}
+{"message":"j was invalid. Try again","level":"error"}
+{"message":"Erik just joined the chat","level":"info"}
+{"message":"Jossif just disconnected from the chat","level":"info"}
+{"message":"Erik just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"undefined just disconnected from the chat","level":"info"}
+{"message":"Jossif just joined the chat","level":"info"}
+{"message":"Jossif just disconnected from the chat","level":"info"}

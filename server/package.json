@@ -1,0 +1,27 @@
+{
+  "name": "chat-app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jossifelefteriadis/chat-app-server.git"
+  },
+  "author": "Jossif Elefteriadis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jossifelefteriadis/chat-app-server/issues"
+  },
+  "homepage": "https://github.com/jossifelefteriadis/chat-app-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

@@ -11,12 +11,12 @@ Create the frontend in React.js
 
 ## Screenshots for the Chat App
 #### Enter Your Name
-![Enter Your Name](https://github.com/jossifelefteriadis/chat-app-client/blob/master/images/EnterYourName.jpg)
+![Enter Your Name](https://github.com/jossifelefteriadis/chat-app/blob/master/client/images/EnterYourName.jpg)
 #### Name Validator
-![Name Validator](https://github.com/jossifelefteriadis/chat-app-client/blob/master/images/NameValidator.jpg)
+![Name Validator](https://github.com/jossifelefteriadis/chat-app/blob/master/client/images/NameValidator.jpg)
 #### Name Taken
-![Name is Taken](https://github.com/jossifelefteriadis/chat-app-client/blob/master/images/NameTaken.jpg)
+![Name is Taken](https://github.com/jossifelefteriadis/chat-app/blob/master/client/images/NameTaken.jpg)
 #### Chat Page
-![Chat Page](https://github.com/jossifelefteriadis/chat-app-client/blob/master/images/Chat.jpg)
+![Chat Page](https://github.com/jossifelefteriadis/chat-app/blob/master/client/images/Chat.jpg)
 #### Disconnected for Inactivity
-![Disconnected for Inactivity](https://github.com/jossifelefteriadis/chat-app-client/blob/master/images/InactiveDisconnected.jpg)
+![Disconnected for Inactivity](https://github.com/jossifelefteriadis/chat-app/blob/master/client/images/InactiveDisconnected.jpg)
